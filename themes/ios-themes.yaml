@@ -1,8 +1,8 @@
 ---
 #
-# iOS Dark Mode Theme - blue-red
+# Fer iOS Dark Mode Theme
 #
-ios-dark-mode-blue-red-alternative:
+fer-ios-dark-mode:
   # Global
   background-image: "center / cover no-repeat fixed url('/hacsfiles/themes/ios-themes/homekit-bg-blue-red.jpg')"
   lovelace-background: var(--background-image)
