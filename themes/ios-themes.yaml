@@ -4,7 +4,7 @@
 #
 fer-ios-dark-mode:
   # Global
-  background-image: "center / cover no-repeat fixed url('/hacsfiles/themes/ios-themes/homekit-bg-blue-red.jpg')"
+  background-image: "center / cover no-repeat fixed url('/local/themes/fer-ios-theme/background.jpg')"
   lovelace-background: var(--background-image)
   primary-color: "#ff9f09"  # from Apple systemOrange dark mode
   light-primary-color: "#B6B6C1"  # (icons on left menu) (light: systemGray5 from iOS dark mode, dark: XXX)
