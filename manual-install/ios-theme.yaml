@@ -2,7 +2,7 @@
 #
 # Fer iOS Dark Mode Theme
 #
-fer-ios-dark-mode:
+fer-ios-dark-theme:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/fer-ios-theme/background.jpg')"
   lovelace-background: var(--background-image)
